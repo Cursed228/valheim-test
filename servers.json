@@ -9,8 +9,8 @@
                         "IconUrl":  "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
                         "Modpacks":  {
                                          "Default":  {
-                                                         "Version":  "07.10.2026-09:00-v4",
-                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v4/vanila-client.zip"
+                                                         "Version":  "10.10.2026-16:36-v9",
+                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v9/vanila-client.zip"
                                                      }
                                      }
                     },
