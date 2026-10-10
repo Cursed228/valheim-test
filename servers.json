@@ -7,7 +7,7 @@
             "ServerPort": 16800,
             "Password": "",
             "IconUrl": "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
-            "StatusUrl": "https://gcp.pterohost.ru/api/client/servers/316dfbf1/resources",
+            "StatusUrl": "https://valheim-status.2000wryip.workers.dev/status/vanila",
             "Modpacks": {
                 "Default": {
                     "Version": "10.10.2026-17:29-v11",
@@ -22,7 +22,7 @@
             "ServerPort": 7516,
             "Password": "",
             "IconUrl": "",
-            "StatusUrl": "https://gcp.pterohost.ru/api/client/servers/8f5e641c/resources",
+            "StatusUrl": "https://valheim-status.2000wryip.workers.dev/status/civilization",
             "Modpacks": {
                 "Default": {
                     "Version": "09.10.2026",
