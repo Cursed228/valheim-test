@@ -1,34 +1,34 @@
 {
-    "servers": [
-        {
-            "Title": "VANILA",
-            "GameVersion": "1.0.12",
-            "ServerIP": "45.138.174.17",
-            "ServerPort": 16800,
-            "Password": "",
-            "IconUrl": "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
-            "StatusUrl": "https://valheim-status.2000wryip.workers.dev/status/vanila",
-            "Modpacks": {
-                "Default": {
-                    "Version": "10.10.2026-17:29-v11",
-                    "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v11/vanila-client.zip"
-                }
-            }
-        },
-        {
-            "Title": "CIVILIZATION",
-            "GameVersion": "1.0.12",
-            "ServerIP": "45.11.16.76",
-            "ServerPort": 7516,
-            "Password": "",
-            "IconUrl": "",
-            "StatusUrl": "https://valheim-status.2000wryip.workers.dev/status/civilization",
-            "Modpacks": {
-                "Default": {
-                    "Version": "09.10.2026",
-                    "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v8/civilization-client.zip"
-                }
-            }
-        }
-    ]
+    "servers":  [
+                    {
+                        "Title":  "VANILA",
+                        "GameVersion":  "1.0.12",
+                        "ServerIP":  "45.138.174.17",
+                        "ServerPort":  16800,
+                        "Password":  "",
+                        "IconUrl":  "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
+                        "StatusUrl":  "https://valheim-status.2000wryip.workers.dev/status/vanila",
+                        "Modpacks":  {
+                                         "Default":  {
+                                                         "Version":  "10.10.2026-21:45-v12",
+                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v12/vanila-client.zip"
+                                                     }
+                                     }
+                    },
+                    {
+                        "Title":  "CIVILIZATION",
+                        "GameVersion":  "1.0.12",
+                        "ServerIP":  "45.11.16.76",
+                        "ServerPort":  7516,
+                        "Password":  "",
+                        "IconUrl":  "",
+                        "StatusUrl":  "https://valheim-status.2000wryip.workers.dev/status/civilization",
+                        "Modpacks":  {
+                                         "Default":  {
+                                                         "Version":  "09.10.2026",
+                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v8/civilization-client.zip"
+                                                     }
+                                     }
+                    }
+                ]
 }
