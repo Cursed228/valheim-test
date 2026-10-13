@@ -25,8 +25,8 @@
                         "StatusUrl":  "https://valheim-status.2000wryip.workers.dev/status/civilization",
                         "Modpacks":  {
                                          "Default":  {
-                                                         "Version":  "11.10.2026-10:43-v13",
-                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v13/civilization-client.zip"
+                                                         "Version":  "13.10.2026-09:35-v14",
+                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v14/civilization-client.zip"
                                                      }
                                      }
                     }
