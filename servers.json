@@ -26,7 +26,7 @@
                         "Modpacks":  {
                                          "Default":  {
                                                          "Version":  "15.10.2026-11:33-v26",
-                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v26/civilization-client.zip"
+                                                         "ContentUrl":  "sftp://75fbj1al.8f5e641c@node10.pterohost.com:2022/.FILES/civilization-client.zip"
                                                      }
                                      }
                     }
