@@ -1,36 +1,52 @@
 {
-    "servers":  [
-                    {
-                        "Title":  "VANILA",
-                        "PterodactylId":  "316dfbf1",
-                        "GameVersion":  "1.0.17",
-                        "ServerIP":  "45.138.174.17",
-                        "ServerPort":  16800,
-                        "Password":  "",
-                        "IconUrl":  "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
-                        "StatusUrl":  "https://valheim-status.2000wryip.workers.dev/status/vanila",
-                        "Modpacks":  {
-                                         "Default":  {
-                                                         "Version":  "19.10.2026-07:06-v51",
-                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v51/vanila-client.zip"
-                                                     }
-                                     }
-                    },
-                    {
-                        "Title":  "CIVILIZATION",
-                        "PterodactylId":  "8f5e641c",
-                        "GameVersion":  "1.0.17",
-                        "ServerIP":  "45.11.16.76",
-                        "ServerPort":  7516,
-                        "Password":  "",
-                        "IconUrl":  "",
-                        "StatusUrl":  "https://valheim-status.2000wryip.workers.dev/status/civilization",
-                        "Modpacks":  {
-                                         "Default":  {
-                                                         "Version":  "20.10.2026-06:33-v52",
-                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v52/civilization-client.zip"
-                                                     }
-                                     }
-                    }
-                ]
+    "servers": [
+        {
+            "Title": "VANILA",
+            "PterodactylId": "316dfbf1",
+            "GameVersion": "1.0.17",
+            "ServerIP": "45.138.174.17",
+            "ServerPort": 16800,
+            "Password": "",
+            "IconUrl": "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
+            "StatusUrl": "https://valheim-status.2000wryip.workers.dev/status/vanila",
+            "Modpacks": {
+                "Default": {
+                    "Version": "19.10.2026-07:06-v51",
+                    "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v51/vanila-client.zip"
+                }
+            }
+        },
+        {
+            "Title": "CIVILIZATION",
+            "PterodactylId": "8f5e641c",
+            "GameVersion": "1.0.17",
+            "ServerIP": "45.11.16.76",
+            "ServerPort": 7516,
+            "Password": "",
+            "IconUrl": "",
+            "StatusUrl": "https://valheim-status.2000wryip.workers.dev/status/civilization",
+            "Modpacks": {
+                "Default": {
+                    "Version": "20.10.2026-06:33-v52",
+                    "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v52/civilization-client.zip"
+                }
+            }
+        },
+        {
+            "Title": "PVP АРЕНА",
+            "PterodactylId": "ed08a68c",
+            "GameVersion": "1.0.20",
+            "ServerIP": "45.138.173.229",
+            "ServerPort": 17754,
+            "Password": "",
+            "IconUrl": "",
+            "StatusUrl": "https://valheim-status.2000wryip.workers.dev/status/pvparena",
+            "Modpacks": {
+                "Default": {
+                    "Version": "1.0",
+                    "ContentUrl": "ССЫЛКА_НА_ТВОЙ_ZIP_АРХИВ"
+                }
+            }
+        }
+    ]
 }
