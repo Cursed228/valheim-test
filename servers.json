@@ -11,8 +11,8 @@
                         "StatusUrl":  "https://valheim-status.2000wryip.workers.dev/status/vanila",
                         "Modpacks":  {
                                          "Default":  {
-                                                         "Version":  "19.10.2026-07:06-v51",
-                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v51/vanila-client.zip"
+                                                         "Version":  "27.10.2026-06:53-v80",
+                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v80/vanila-client.zip"
                                                      }
                                      }
                     },
