@@ -43,8 +43,8 @@
                         "StatusUrl":  "https://valheim-status.2000wryip.workers.dev/status/pvparena",
                         "Modpacks":  {
                                          "Default":  {
-                                                         "Version":  "30.10.2026-12:20-v89",
-                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v89/pvp-client.zip"
+                                                         "Version":  "30.10.2026-16:44-v92",
+                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v92/pvp-client.zip"
                                                      }
                                      }
                     }
