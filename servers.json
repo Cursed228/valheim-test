@@ -50,10 +50,10 @@
                     },
                     {
                         "Title":  "RPGHARD",
-                        "PterodactylId":  "dab46322",
+                        "PterodactylId":  "e6be3029",
                         "GameVersion":  "1.0.17",
-                        "ServerIP":  "45.138.173.229",
-                        "ServerPort":  17908,
+                        "ServerIP":  "45.11.18.95",
+                        "ServerPort":  25028,
                         "Password":  "11111",
                         "IconUrl":  "",
                         "StatusUrl":  "https://valheim-status.2000wryip.workers.dev/status/rpghard",
