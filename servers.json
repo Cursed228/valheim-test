@@ -59,8 +59,8 @@
                         "StatusUrl":  "https://valheim-status.2000wryip.workers.dev/status/rpghard",
                         "Modpacks":  {
                                          "Default":  {
-                                                         "Version":  "04.11.2026-17:51-v102",
-                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v102/rpghard-client.zip"
+                                                         "Version":  "06.11.2026-12:12-v103",
+                                                         "ContentUrl":  "https://github.com/Cursed228/valheim-test/releases/download/v103/rpghard-client.zip"
                                                      }
                                      }
                     }
